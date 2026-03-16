@@ -38,8 +38,8 @@ An NLP-powered assistant that does not just translate, but simplifies and summar
 ### Installation & Setup
 
 1.  **Clone the repository:**
-    git clone https://github.com/ngzx0312/inclusive-citizen.git
-    cd inclusive-citizen
+    git clone [https://github.com/Ngzx0312/VHack.git]
+    cd VHack/inclusive-citizen
 
 2.  **Install dependencies:**
     pip install -r requirements.txt
